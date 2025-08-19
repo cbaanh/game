@@ -2,7 +2,7 @@ getgenv().Config = {
     ["Account Main"] = {"zinikaza"},
     ["Pet"] = {"Golden Goose", "Mimic Octopus", "Dragonfly", "Disco Bee", "Lobster Thermidor", "French Fry Ferret", "Butterfly"},
     ["UUID"] = "5c144bc579c81c82e33e8f401c834956a1823baecce5972ee281bdb4147ae6031229e4055fb5bc13e57f0bb0bba9be05zinikaza",
-    ["Url"] = "http://103.249.200.78:3000"
+    ["Url"] = "https://yummydata.click"
 }
 repeat
     wait()
@@ -16,7 +16,6 @@ repeat
     game:GetService("VirtualUser"):Button1Down(Vector2.new(0, 0))
 until game.Players.LocalPlayer:GetAttribute("DataFullyLoaded") and
     game.Players.LocalPlayer:GetAttribute("Finished_Loading")
-
 game.ReplicatedStorage.GameEvents.GiftPet.OnClientEvent:Connect(function(p_u_6, p7, p8)
     if table.find(getgenv().Config["Account Main"], game.Players.LocalPlayer.Name) then
         game.ReplicatedStorage.GameEvents.AcceptPetGift:FireServer(true, p_u_6)
@@ -141,6 +140,34 @@ spawn(function()
         end)
     end
 end)
+local abc = tick()
+spawn(function()
+    while wait(1) do
+        if tick() - abc > 5 * 60 and table.find(getgenv().Config["Account Main"], game.Players.LocalPlayer.Name) then
+            local servers = {}
+            local req = game:HttpGet("https://games.roblox.com/v1/games/" .. game.PlaceId ..
+                                         "/servers/Public?sortOrder=Asc&limit=100&excludeFullGames=true")
+            local body = game:GetService("HttpService"):JSONDecode(req)
+            local TeleportService = (game:GetService("TeleportService"))
+
+            if body and body.data then
+                for i, v in next, body.data do
+                    if type(v) == "table" and tonumber(v.playing) and tonumber(v.maxPlayers) and v.playing <
+                        v.maxPlayers and v.id ~= game.JobId then
+                        table.insert(servers, 1, v.id)
+                    end
+                end
+            end
+
+            if #servers > 0 then
+                TeleportService:TeleportToPlaceInstance(game.PlaceId, servers[math.random(1, #servers)],
+                    game.Players.LocalPlayer)
+            else
+                print("Couldn't find a server.")
+            end
+        end
+    end
+end)
 spawn(function()
     while wait() do
         pcall(function()
@@ -151,7 +178,7 @@ spawn(function()
                         for i, v in getgenv().Config["Account Main"] do
                             for i1, v1 in GetDataMain(getgenv().Config["UUID"]) do
 
-                                if v1["JobId"] ~= tostring(game.JobId) then
+                                if v1["JobId"] and v1["JobId"] ~= tostring(game.JobId) then
                                     game:GetService("TeleportService"):TeleportToPlaceInstance(v1["PlaceId"],
                                         v1["JobId"], game.Players.LocalPlayer)
                                 end
@@ -177,7 +204,10 @@ spawn(function()
                         end
                     end
                 else
-                    --  Script Farm
+                    -- Script Farm
+                    repeat
+                        wait()
+                    until havepet()
                 end
 
             end
