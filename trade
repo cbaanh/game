@@ -1,4 +1,3 @@
-wait(30)
 getgenv().Config = {
     ["Account Main"] = {"Elli3Primal2002", "ElijahCodeMagic", "AlexanderBeastTurboY", "XxPrismGlitchInferno", "RavenGolden77"},
     ["Pet"] = {"Swan"},
