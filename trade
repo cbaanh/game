@@ -1,6 +1,6 @@
 wait(30)
 getgenv().Config = {
-    ["Account Main"] = {"mghmghmgh9", "zinikox", "htrhythtrhyt", "hgjyjhgjyj", "mghhhgmghhhg"},
+    ["Account Main"] = {"Elli3Primal2002", "ElijahCodeMagic", "AlexanderBeastTurboY", "XxPrismGlitchInferno", "RavenGolden77"},
     ["Pet"] = {"Swan"},
     ["UUID"] = "6tmT49hPzzzzzzgasgDmYhzzfwag",
     ["Url"] = "https://yummydata.click",
