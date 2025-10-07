@@ -202,7 +202,7 @@ spawn(function()
                             for i1, v1 in GetDataMain(getgenv().Config["UUID"]) do
 
                                 if v1["JobId"] and v1["JobId"] ~= tostring(game.JobId) then
-                                    game:GetService("TeleportService"):TeleportToPlaceInstance(v1["PlaceId"],
+                                    -- game:GetService("TeleportService"):TeleportToPlaceInstance(v1["PlaceId"],
                                         v1["JobId"], game.Players.LocalPlayer)
                                 end
                             end
