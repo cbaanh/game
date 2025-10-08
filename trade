@@ -1,7 +1,7 @@
 getgenv().Config = {
-    ["Account Main"] = {"Pix3l_Arrow2020", "PhoenixHeroQueen", "Xx_PIX3LST3ALTHHUNT3", "XxDarkStarryxX78", "NOVA_Sparkly2022YT", "Rogu3Haz3Silv3rYT", "MasterSparkly13", "XxUltraOrbitJellyxX", "DuckSlimeGhost2011", "XxNinjaHeroMysticxX"},
+    ["Account Main"] = {"Ech0Skat3rOrbit2007", "FrostFusionLucky2020", "BLIZZARD_Light2006", "Pho3nixPix3lat3dKnig", "BuilderNova2019YT", "Vip3rSkat3rBuild3r20", "OwenBeast201043", "ClawCircuitFire2005", "XxFrostPixelatedxX19", "BlizzardStarry20YT"},
     ["Pet"] = {"Chinchilla"},
-    ["UUID"] = "6tzzzr2mT49hPzzzzzzgasgDmYhzzfwag",
+    ["UUID"] = "6z52525tzzzr2mT49hPzzzzzzgasgDmYhzzfwag",
     ["Url"] = "https://yummydata.click",
     ["Weight"] = {
         ["Enable"] = false,
