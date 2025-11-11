@@ -1,6 +1,6 @@
 getgenv().Config = {
     ["Account Main"] = {
-       "XxRogueGalaxyxX58", "XxStarryZer0xX2002", "SaberChaosBlade2006", "Elijah_Legend43", "LucasTig3r36", "RiderFusionBear", "AriaPix3lat3dCraz327", "NinjaSt3alth45", "StreamPixelBeast2003", "ChillWraith201940", "Ow3n_Tig3r202060", "Ril3yStormyPanda2013", "V0rtex_Drift78", "RiftLuckyCraft2009", "AbigailStealth59", "ThunderGamerRift2013", "Hyper_DANCER201863", "CraftMysticFrost85", "XxVoidCrazeDancerxX2", "Emma_Storm55"
+       "RogueInfernoRaven", "XxSparklyBanexX90", "Om3ga_Zoom2006", "XxRav3n_EchoxX86", "ChloeStarryPixel2003", "SKAT3R_Haz378", "Micha3lGam3r32", "Starry_Gh0st75", "DawnSonicCircuit77", "RiftAquaPhoenix2009", "G0ldenSt0rm2024", "Bac0nM00nNinja2006", "CLAW_Hunter77", "MagicPulseAlpha41", "ClawVoidBear2011", "Ash3rMoonPuls32003", "Charl0tteQueenAlpha", "Ac3Echo2022", "PULS3_Danc3r2018", "Turb0OmegaStar202244"
 },
     ["Pet"] = {"Ostrich", "Capybara", "Peacock", "Scarlet Macaw"},
     ["UUID"] = "6z52525tzzzr2mT49hPzzzzzzgasgDmYhzzfwag",
