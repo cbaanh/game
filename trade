@@ -1,6 +1,6 @@
 getgenv().Config = {
     ["Account Main"] = {
-       "BlastOmega2016_YT", "Cyb3r_Blast62", "Am3liaCircuitDanc3r", "GalaxyRav3nOrbit", "Shad0w_Her0201660", "XxDragonArrowxX2011", "PhoenixBlockDancer", "XxSkat3rBlizzardxX64", "Grayson_Ic32011", "Builder_Slime201320", "Ban3Cod3Lucky2009", "StormyLionRiderYT", "XxDancerPixelxX2022", "AvaPlayzGhostYT", "HyperNovaSaber", "DarkFoxBacon", "Turb0SparkStarry2010", "SkaterCrazeEcho2011", "WillowRift201834", "XxFr0stStarSparkxX20"
+       "Ic3Storm2012", "NeonHyper2011_YT", "NinjaSparklyFury2015", "JaydenOmegaInferno20", "AddisonMasterLegend2", "S3bastian_Fox84", "PixelGlitchMagic2003", "SamuelDawnStealth200", "Li0nB3ar2016", "XxCraftFirexX2013", "EliCrystalBlade70", "XxNight_BlockxX2024", "StarryPro202176", "XX_CyberCrystalBuild", "ChaosOrbitRocket2014", "FlashKnightOrbit2022", "XxRileyR0guexX55", "PaisleyPhoenixPower", "XxOliverNe0nMasterxX", "NoraIc392", "BladeRogueJelly", "HunterOrbitPhoenixYT", "Gabri3l_Tig3r68", "EagleOrbitMax2016", "ChaosPrism200692", "TigerLuckyStormy", "XxChloeSaberxX73", "AddisonBeastMax", "SebastianPrism76", "XxProSilverAquaxX"
 },
     ["Pet"] = {"Ostrich", "Capybara", "Peacock", "Scarlet Macaw"},
     ["UUID"] = "6z52525tzzzr2mT49hPzzzzzzgasgDmYhzzfwag",
