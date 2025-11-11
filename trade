@@ -1,6 +1,6 @@
 getgenv().Config = {
     ["Account Main"] = {
-       "Ic3Storm2012", "NeonHyper2011_YT", "NinjaSparklyFury2015", "JaydenOmegaInferno20", "AddisonMasterLegend2", "S3bastian_Fox84", "PixelGlitchMagic2003", "SamuelDawnStealth200", "Li0nB3ar2016", "XxCraftFirexX2013", "EliCrystalBlade70", "XxNight_BlockxX2024", "StarryPro202176", "XX_CyberCrystalBuild", "ChaosOrbitRocket2014", "FlashKnightOrbit2022", "XxRileyR0guexX55", "PaisleyPhoenixPower", "XxOliverNe0nMasterxX", "NoraIc392", "BladeRogueJelly", "HunterOrbitPhoenixYT", "Gabri3l_Tig3r68", "EagleOrbitMax2016", "ChaosPrism200692", "TigerLuckyStormy", "XxChloeSaberxX73", "AddisonBeastMax", "SebastianPrism76", "XxProSilverAquaxX"
+       "RiftZapIceYT", "XxChas3Ic3xX2009", "XxBlizzardUltraxX76", "AquaBlastCyb3r", "BlockVoid91", "Pixelated_Turbo10", "XxBr00klynDriftxX75", "L3g3ndBlizzardFlash2", "HazeTigerCode", "XxShadowBaconxX2004", "Grayson_Light2003YT", "ShadowTurboChill2008", "ScarlettEpic38", "XxCart3rGlitchBlockx", "MoonFlickCraft", "PrimalVoid2002YT", "Xx_TigerJellyCrystal", "Neon_Fusion71", "J3llyMax32", "JamesBaconFlame2023", "LuckyB3astBlast", "XxJaydenStormLightxX", "RiderJellyKing", "Silv3rLava2017", "XxPr0GlitchSt0rmyxX", "XxCyberKnightxX64", "XxSparkAlphaCircuitx", "WyattTurb0Sky67", "LavaBlizzardClaw", "Knight_SILVER2022"
 },
     ["Pet"] = {"Ostrich", "Capybara", "Peacock", "Scarlet Macaw"},
     ["UUID"] = "6z52525tzzzr2mT49hPzzzzzzgasgDmYhzzfwag",
