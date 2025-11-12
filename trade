@@ -1,8 +1,8 @@
 getgenv().Config = {
     ["Account Main"] = {
-       "FlickSkat3r16", "HeroFlick15", "LukeWolfSkater", "Shad0wF0xLucky", "IsaacShadow18", "MoonBlaze59_YT", "Xx_SavannahAlphaKing", "WolfPuls3Dragon", "H3r0Flash89", "MateoShadowStream29"
+       "XxS0phiaMaxC00kiexX", "CrystalMagicZ3ro", "Min3r_Sparkly99", "BeastBl0ckQueen33", "XxRider_FlashxX2008", "Mate0Infern063", "SaberOrbitStealth", "MasterGigaGalaxy", "EmmaKingNova16", "OliviaOmegaDawn2006", "ElijahBlizzardHyp3r2", "Harp3rPlayz65", "GalaxyLight201389", "LoganVortex2011YT", "XxSaberW0lfPlayzxX", "NinjaSt3althCooki3", "EchoGiga201957", "Xx_GraysonSlim3Danc3", "MinerRiftGh0st200223", "BlastCod32024", "XxFusionGigaAlphaxX9", "XX_GalaxyB3astPix3la", "Rogu3_Wolf65", "TigerCodeBane2013", "UltraMagic89", "Mat3oB3ast50", "St0rmyS0nicInfern020", "AlexanderGalaxyAlpha", "Arr0wThunder91_YT", "PrimalIceFrost2015", "LukeShad0wT0xic", "AriaKingEpicYT", "ElijahL3g3ndBlast", "FlickW0lfMaster", "Zer0P0wer43", "SkaterRiftOmega2004", "XxWraithIceFuryxX", "FlashDancerLegend36", "Fury_MYSTIC67", "Pho3nixIc3Fir32011", "CircuitSparkGam3r"
 },
-    ["Pet"] = {"Elephant"},
+    ["Pet"] = {"Ostrich", "Capybara", "Peacock", "Scarlet Macaw"},
     ["UUID"] = "6z52525tzzzr2mT49hPzzzzzzgasgDmYhzzfwag",
     ["Url"] = "https://yummydata.click",
     ["Weight"] = {
