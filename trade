@@ -2,7 +2,8 @@ getgenv().Config = {
     ["Account Main"] = {
        "Xx_ScarlettStreamTur", "ByteStormAlpha2013", "GalaxyVip3rRid3r", "StarryStormFox2019", "Power_Silver20", "XX_FlickLightBlizzar", "ZAP_Zero56", "MasonGam3r202395", "XxLiamVenomBearxX", "AmeliaHunterFusi0n30"
 },
-    ["Pet"] = {"Ostrich", "Capybara", "Peacock", "Scarlet Macaw"},
+    -- ["Pet"] = {"Ostrich", "Capybara", "Peacock", "Scarlet Macaw"},
+    ["Pet"] = {"Elephant"},
     ["UUID"] = "6z52525tzzzr2mT49hPzzzzzzgasgDmYhzzfwag",
     ["Url"] = "https://yummydata.click",
     ["Weight"] = {
