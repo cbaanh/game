@@ -1,6 +1,6 @@
 getgenv().Config = {
     ["Account Main"] = {
-       "Xx_ScarlettStreamTur", "ByteStormAlpha2013", "GalaxyVip3rRid3r", "StarryStormFox2019", "Power_Silver20", "XX_FlickLightBlizzar", "ZAP_Zero56", "MasonGam3r202395", "XxLiamVenomBearxX", "AmeliaHunterFusi0n30"
+       "Xx_ScarlettStreamTur", "ByteStormAlpha2013", "GalaxyVip3rRid3r", "StarryStormFox2019", "Power_Silver20", "XX_FlickLightBlizzar", "XxLiamVenomBearxX", "PixelPlayzMaster38", "Chlo3BaconZoom", "MysticPower202315"
 },
     -- ["Pet"] = {"Ostrich", "Capybara", "Peacock", "Scarlet Macaw"},
     ["Pet"] = {"Elephant"},
