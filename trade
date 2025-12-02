@@ -3,7 +3,7 @@ getgenv().Config = {
        "TigerToxicPixel86", "OwenMystic70", "RocketWolfNight37", "Grays0nGalaxy15", "Qu33nStormy12", "XxMax_FirexX2010", "MateoHunterBlast", "JaxonGoldenFusion", "GraceSaberCyber13", "XxPlayzRoguexX35", "BrooklynnChaseStarry", "Cart3rTurbo92", "XxShadowLightFlam3xX", "James_Prism91", "SophiaChaosAqua", "RogueSonic86", "FuryCodeEagle", "WyattRocket66", "SkaterBladeHunter202", "AMELIA_Hawk19", "Pho3nixKnightFlash", "Venom_DRIFT71", "XxLucas_ProxX25"
 },
     -- ["Pet"] = {"Ostrich", "Capybara", "Peacock", "Scarlet Macaw"},
-    ["Pet"] = {"Ruby Squid"},
+    ["Pet"] = {"Bearded Dragon"},
     ["UUID"] = "6z52525tzzzr2mT49hPzzzzzzgasgDmYhzzfwag",
     ["Url"] = "https://yummydata.click",
     ["Weight"] = {
