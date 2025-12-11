@@ -3,7 +3,7 @@ getgenv().gagBoothCfg = {
     SELL_PET_RAP_PERCENTAGE = 300,  -- 100 -> 100% RAP Price, 200 -> 200% RAP Price
     
     TRADE_WORLD_WEBHOOK_URL = "https://discord.com/api/webhooks/1342556846862504045/vEh50mbTp8HZg6Na7bSZIwjiEjuvlG2ToFrKLfoEbrCbK2ez6MwGT811ETvTaT_3qxeR", 
-    DISCORD_ID = "",
+    DISCORD_ID = "zzzz",
     NOTIFY_TOKEN_AMOUNT = 1,  -- Notify webhook if sold min token amount
     PING_TOKEN_AMOUNT = 1,  -- @Ping If sold min token amount
     SHOW_WEBHOOK_JOBID = true,
