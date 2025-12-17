@@ -1,5 +1,5 @@
 getgenv().gagBoothCfg = {  
-    SELL_PETS = { {"Frost Dragon", 0, "", 0, 160},  {"Ice Golem", 0, "", 0, 400},  {"Yeti", 0, "", 0, 50} },  -- {Pet Name, Min Weight, Mutation, Min Age, Price}
+    SELL_PETS = { {"Frost Dragon", 0, "", 0, 120},  {"Ice Golem", 0, "", 0, 250},  {"Yeti", 0, "", 0, 40} },  -- {Pet Name, Min Weight, Mutation, Min Age, Price}
     SELL_PET_RAP_PERCENTAGE = 300,  -- 100 -> 100% RAP Price, 200 -> 200% RAP Price
     
     TRADE_WORLD_WEBHOOK_URL = "https://discord.com/api/webhooks/1342556846862504045/vEh50mbTp8HZg6Na7bSZIwjiEjuvlG2ToFrKLfoEbrCbK2ez6MwGT811ETvTaT_3qxeR", 
